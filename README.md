@@ -1,7 +1,7 @@
 <div align="center"> <img src="https://github.com/CSWellesSun/Images/blob/main/banner.png" /> </div>
 <p>
 </p>
-<p>
+<p align="center">
 I'm Welles, a sophomore majoring in Computer Science in Zhejiang University.
 </p>
 
