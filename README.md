@@ -15,13 +15,16 @@ I'm Welles, a sophomore majoring in Computer Science in Zhejiang University.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> 
  </p>
   
  <p align = "center">
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/>
  </p>
  
   <p align = "center">
@@ -31,7 +34,7 @@ I'm Welles, a sophomore majoring in Computer Science in Zhejiang University.
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="3200102339@zju.edu.cn" target="blank"><img align="center" src="https://github.com/CSWellesSun/Images/blob/main/email.svg" alt="" height="40" width="40" /></a>
+<img align="center" src="https://github.com/CSWellesSun/Images/blob/main/email.svg" alt="" height="40" width="40" />xinjie.sun@outlook.com
 </p>
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CSWellesSun" /> </div>
