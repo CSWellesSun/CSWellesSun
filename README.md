@@ -60,7 +60,7 @@ I'm Welles, a junior majoring in Computer Science in Zhejiang University.
 <h3 align="center">Game</h3>
 <div align="center">
 
-![](https://img.shields.io/badge/-Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+![](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 </div>
 
