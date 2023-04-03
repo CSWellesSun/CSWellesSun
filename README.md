@@ -4,7 +4,6 @@
 <p align="center">
 I'm Welles, a junior majoring in Computer Science in Zhejiang University.
 </p>
-
 <h3 align="center">Languages</h3>
 <div align="center">
 
@@ -22,8 +21,6 @@ I'm Welles, a junior majoring in Computer Science in Zhejiang University.
 ![](https://img.shields.io/badge/-Ocaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
 
 </div>
-  
-
 <h3 align="center">Frontend</h3>
 <div align="center">
 
@@ -31,7 +28,6 @@ I'm Welles, a junior majoring in Computer Science in Zhejiang University.
 ![](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue&logoColor=white)
 
 </div>
-
 <h3 align="center">Backend</h3>
 <div align="center">
 
@@ -43,7 +39,6 @@ I'm Welles, a junior majoring in Computer Science in Zhejiang University.
 ![](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 </div>
-
 <h3 align="center">Web3</h3>
 <div align="center">
 
@@ -53,14 +48,12 @@ I'm Welles, a junior majoring in Computer Science in Zhejiang University.
 ![](https://img.shields.io/badge/-HARDHAT-ECD53F?style=for-the-badge&logoColor=white)
 
 </div>
-
 <h3 align="center">Game</h3>
 <div align="center">
 
 ![](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 </div>
-
 <h3 align="center">AI</h3>
 <div align="center">
 
@@ -68,14 +61,12 @@ I'm Welles, a junior majoring in Computer Science in Zhejiang University.
 ![](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
-
 <h3 align="center">Mobile</h3>
 <div align="center">
 
 ![](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 </div>
-
 <h3 align="center">Development Tools</h3>
 <div align="center">
 
@@ -92,7 +83,11 @@ I'm Welles, a junior majoring in Computer Science in Zhejiang University.
 <p align="center">
   <img align="center" src="https://github.com/CSWellesSun/Images/blob/main/email.svg" alt="" height="40" width="40" />xinjie.sun@outlook.com
 </p>
-
 <h3 align="center">GitHub Stats</h3>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CSWellesSun" /> </div>
+<div align="center">
+
 ![](https://raw.githubusercontent.com/CSWellesSun/CSWellesSun/main/assets/github-contribution-grid-snake.svg)
+
+</div>
+
