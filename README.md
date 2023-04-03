@@ -5,9 +5,6 @@
 I'm Welles, a junior majoring in Computer Science in Zhejiang University.
 </p>
 
-<h3 align="center">GitHub Stats</h3>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CSWellesSun" /> </div>
-
 <h3 align="center">Languages</h3>
 <div align="center">
 
@@ -95,3 +92,7 @@ I'm Welles, a junior majoring in Computer Science in Zhejiang University.
 <p align="center">
   <img align="center" src="https://github.com/CSWellesSun/Images/blob/main/email.svg" alt="" height="40" width="40" />xinjie.sun@outlook.com
 </p>
+
+<h3 align="center">GitHub Stats</h3>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CSWellesSun" /> </div>
+![](https://raw.githubusercontent.com/CSWellesSun/CSWellesSun/main/assets/github-contribution-grid-snake.svg)
