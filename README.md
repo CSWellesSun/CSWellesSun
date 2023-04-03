@@ -59,6 +59,9 @@ I'm Welles, a junior majoring in Computer Science in Zhejiang University.
 
 ![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 </div>
 <h3 align="center">Mobile</h3>
