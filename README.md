@@ -25,7 +25,7 @@ I'm Welles, a junior majoring in Computer Science in Zhejiang University.
 <div align="center">
 
 ![](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue&logoColor=white)
+![](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vuejs&logoColor=white)
 
 </div>
 <h3 align="center">Backend</h3>
