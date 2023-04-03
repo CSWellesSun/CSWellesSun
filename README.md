@@ -5,36 +5,93 @@
 I'm Welles, a junior majoring in Computer Science in Zhejiang University.
 </p>
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
- </p>
-  
- <p align = "center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> 
- </p>
- 
-  <p align = "center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-  </p>
+<h3 align="center">GitHub Stats</h3>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CSWellesSun" /> </div>
 
+<h3 align="center">Languages</h3>
+<div align="center">
+
+![](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/-Csharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/-Latex-008080?style=for-the-badge&logo=latex&logoColor=white)
+![](https://img.shields.io/badge/-Ocaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
+
+</div>
+  
+
+<h3 align="center">Frontend</h3>
+<div align="center">
+
+![](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue&logoColor=white)
+
+</div>
+
+<h3 align="center">Backend</h3>
+<div align="center">
+
+![](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/-SpringBoot-4FC08D?style=for-the-badge&logo=springboot&logoColor=white)
+![](https://img.shields.io/badge/-Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/-Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+</div>
+
+<h3 align="center">Web3</h3>
+<div align="center">
+
+![](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![](https://img.shields.io/badge/-BSC-F0B90B?style=for-the-badge&logo=binance&logoColor=white)
+![](https://img.shields.io/badge/-REMIX-000000?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-HARDHAT-ECD53F?style=for-the-badge&logoColor=white)
+
+</div>
+
+<h3 align="center">Game</h3>
+<div align="center">
+
+![](https://img.shields.io/badge/-Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+
+</div>
+
+<h3 align="center">AI</h3>
+<div align="center">
+
+![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+<h3 align="center">Mobile</h3>
+<div align="center">
+
+![](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</div>
+
+<h3 align="center">Development Tools</h3>
+<div align="center">
+
+![](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![](https://img.shields.io/badge/-IntellijIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![](https://img.shields.io/badge/-Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+
+</div>
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <img align="center" src="https://github.com/CSWellesSun/Images/blob/main/email.svg" alt="" height="40" width="40" />xinjie.sun@outlook.com
 </p>
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CSWellesSun" /> </div>
