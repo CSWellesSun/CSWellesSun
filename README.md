@@ -39,6 +39,7 @@ I'm Welles, a junior majoring in Computer Science in Zhejiang University.
 ![](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/-PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 </div>
 <h3 align="center">Web3</h3>
