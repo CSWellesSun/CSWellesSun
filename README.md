@@ -85,10 +85,13 @@ I'm Welles, a junior majoring in Computer Science in Zhejiang University.
 ![](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
 </div>
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <img align="center" src="https://github.com/CSWellesSun/Images/blob/main/email.svg" alt="" height="40" width="40" />xinjie.sun@outlook.com
-</p>
+<h3 align="center">Email</h3>
+<div align="center">
+
+  [![](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:xinjie.sun@outlook.com)
+  [![](https://img.shields.io/badge/-GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cs.welles.sun@gmail.com)
+  
+</div>
 <h3 align="center">GitHub Stats</h3>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CSWellesSun" /> </div>
 <div align="center">
