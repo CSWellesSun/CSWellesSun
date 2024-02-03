@@ -2,7 +2,7 @@
 <p>
 </p>
 <p align="center">
-I'm Welles, a junior majoring in Computer Science in Zhejiang University.
+I'm Welles, a senior majoring in Computer Science in Zhejiang University.
 </p>
 <h3 align="center">Languages</h3>
 <div align="center">
