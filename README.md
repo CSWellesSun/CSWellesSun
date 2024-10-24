@@ -1,9 +1,6 @@
 <div align="center"> <img src="https://github.com/CSWellesSun/Images/blob/main/banner.png" /> </div>
 <p>
 </p>
-<p align="center">
-I'm Welles, a senior majoring in Computer Science in Zhejiang University.
-</p>
 <h3 align="center">Languages</h3>
 <div align="center">
 
