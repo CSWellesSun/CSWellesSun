@@ -38,14 +38,6 @@
 ![](https://img.shields.io/badge/-Fastspi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
-<h3 align="center">Web3</h3>
-<div align="center">
-
-![](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![](https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-![](https://img.shields.io/badge/-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-
-</div>
 <h3 align="center">Game</h3>
 <div align="center">
 
