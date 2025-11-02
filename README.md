@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://github.com/CSWellesSun/Images/blob/main/banner.png" /> </div>
+<!-- <div align="center"> <img src="https://github.com/CSWellesSun/Images/blob/main/banner.png" /> </div> -->
 <p>
 </p>
 <h3 align="center">Languages</h3>
